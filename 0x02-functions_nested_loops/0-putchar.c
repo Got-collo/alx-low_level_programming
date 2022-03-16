@@ -1,4 +1,6 @@
-#include "_putchar.h"
+/*Betty coding style*/
+
+#include "main.h"
 
 /**
  * main -  prints _putchar, followed by a new line
